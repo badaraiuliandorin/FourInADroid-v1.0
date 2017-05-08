@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">FourInADroid</string>
+    <string name="main_quit">Quit</string>
+    <string name="main_start">1 VS 1</string>
+    <string name="main_title">Four In A Droid</string>
+    <string name="reset_game_button">reset</string>
+    <string name="current_player">Current player</string>
+    <string name="winner_is">Winner is</string>
+    <string name="game_draw">Draw</string>
+    <string name="main_start_ai">1 VS DROID</string>
+    <string name="start_about">About</string>
+    <string name="html_for_about">
+        <![CDATA[
+        <style>
+            body{
+                padding: 10px;
+            }
+            h1{
+                padding: 5px;
+                background-color: #465E84;
+                color: #FFFFFF;
+            }
+            a{
+                font-weight: bold;
+                color: #465E84;
+            }
+            img{
+                margin: 10px 0px;
+                width: 100%;
+                height: auto;
+                float: left;
+                display: block;
+            }
+        </style>
+        <html>
+            <body>
+                <h1>About</h1>
+                <h2>Terminology</h2>
+                <p>Connect Four (also known as Captain\'s Mistress,
+                 Four Up, Plot Four, Find Four, Fourplay, Four in a Row,
+                  Four in a Line and Gravitrips (in Soviet Union))
+                   is a two-player connection game in which the players
+                    first choose a color and then take turns dropping
+                     colored discs from the top into a seven-column,
+                      six-row vertically suspended grid. The pieces fall straight down,
+                       occupying the next available space within the column.
+                        The objective of the game is to be the first to form a horizontal,
+                         vertical, or diagonal line of four of one\'s own discs.
+                          Connect Four is a solved game.
+                          The first player can always win by playing the right moves.</p>
+                 <p>The game was first sold under the Connect Four trademark by Milton Bradley in February 1974.</p>
+                 <h2>Rules</h2>
+                 <p>
+                    the first player begins by dropping his/her coloured disc into the center column of the game board.
+                     The two players then alternate turns dropping one of their discs at a time into an unfilled column,
+                      until the second player, with discs of another colour, achieves four discs in a row, diagonally, and wins.
+                     If the game board fills before either player achieves four in a row, then the game is a draw.
+                 </p>
+                <a href="https://en.wikipedia.org/wiki/Connect_Four">Wikipedia documentation</a>
+            </body>
+        </html>
+        ]]>
+    </string>
+</resources>
